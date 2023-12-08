@@ -1,0 +1,1 @@
+This repository is used as an example in my article [Dependency Management in Microservice Architecture: Creating Your Own Parent POM](https://hackernoon.com/dependency-management-in-microservice-architecture-creating-your-own-parent-pom)
